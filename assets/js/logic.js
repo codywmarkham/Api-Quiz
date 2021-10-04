@@ -54,11 +54,8 @@ function questionClick() {
 
     timerEl.textContent = time;
 
-    sfxWrong.play();
-
     feedbackEl.textContent = "Wrong!";
   } else {
-    sfxRight.play();
 
     feedbackEl.textContent = "Correct!";
   }

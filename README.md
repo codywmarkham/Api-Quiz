@@ -19,8 +19,8 @@ You can access the app here: [https://codywmarkham.github.io/Api-Quiz/](https://
 ## Mock-up
 The following picture shows the website appearance and capabilities:
 
-![Explantion Image]()
-![Explantion Image]()
+![Explantion Image](https://github.com/codywmarkham/Api-Quiz/blob/main/assets/images/front.PNG)
+![Explantion Image](https://github.com/codywmarkham/Api-Quiz/blob/main/assets/images/back.PNG)
 
 ## Installation
 To fork this code to further improve the website, please follow these directions:
